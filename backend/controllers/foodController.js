@@ -1,7 +1,7 @@
-import { log } from "console";
+
 import foodModel from "../models/foodModel.js";
-import fs from 'fs'
-import { FallbackFragment } from "ethers";
+
+
 
 
 //add food item
@@ -49,7 +49,7 @@ const removeFood = async(req, res) => {
         res.json({success : true, message : "Food removed"})
     } catch(error) {
         console.log(error);
-        res.json({success : FallbackFragmentlse, message : "Error"})
+        res.json({success : false, message : "Error"})
         
 
     }
