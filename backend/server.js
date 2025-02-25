@@ -6,7 +6,8 @@ import userRouter from "./routes/userRoute.js"
 import 'dotenv/config'
 import cartRouter from "./routes/cartRoute.js"
 import orderRouter from "./routes/orderRoute.js"
-const bcrypt = require('bcryptjs');
+import bcrypt from 'bcryptjs';
+
 
 
 
