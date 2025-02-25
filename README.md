@@ -2,7 +2,7 @@
 This is a food delivery website that allows users to order food online, and track their deliveries in real-time. The platform provides an intuitive and seamless experience for customers, restaurant owners, and delivery personnel.
 
 <h1>Features</h1>
-<b>User Authentication:</b> Sign up, log in, and manage user profiles.
+<b>User Authentication:</b> Sign up, log in, and manage user profiles.<br>
 <b>Restaurant Listings:</b> Browse and filter restaurants based on cuisine, ratings, and location.
 <b>Menu & Ordering:</b> View restaurant menus and place orders with customization options.
 <b>Cart & Checkout:</b> Add items to the cart, apply promo codes, and complete transactions securely.
